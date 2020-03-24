@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ECO-Trash</string>
+    <string-array name="name">
+        <item>Anthony</item>
+        <item>Kevin</item>
+        <item>Paul</item>
+        <item>Pierre</item>
+        <item>Pierre</item>
+        <item>Pierre</item>
+        <item>Pierre</item>
+        <item>Pierre</item>
+        <item>Pierre</item>
+        <item>Pierre</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>le meilleur</item>
+        <item>le geek</item>
+        <item>le vieux</item>
+        <item>le sociable</item>
+        <item>le sociable</item>
+        <item>le sociable</item>
+        <item>le sociable</item>
+        <item>le sociable</item>
+        <item>le sociable</item>
+        <item>le sociable</item>
+    </string-array>
+</resources>
